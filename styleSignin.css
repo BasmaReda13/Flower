@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.Sign-in {
+  width: 600px;
+  border: none;
+  border-radius: 10px;
+  background: #fff;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 50px auto;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 2 10 rgba(0, 0, 0, 0.1);
+  /* transform: translateY(-50); */
+}
+.right-part {
+  /* float: right; */
+  /* position: ; */
+  /* width: 50%; */
+  height: 5px;
+}
+.left-part {
+  padding: 40px 50px;
+}
+input {
+  display: block;
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+#terms {
+  display: flex;
+}
+#terms input {
+  padding: 0;
+}
+
+button {
+  background-color: #e84393;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d83081;
+}
+span {
+  color: #e84393;
+}
+h1 {
+  color: #e84393;
+}
