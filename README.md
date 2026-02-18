@@ -5,7 +5,7 @@
 ## 👋 Hello! I’m Basma
 
 I’m a **Junior Frontend Developer & Web Designer** passionate about creating beautiful **responsive web experiences**.  
-I specialize in **HTML, CSS, JavaScript, and interactive store layouts**.
+I specialize in **HTML, CSS, and interactive store layouts**.
 
 ## 🔗 Live Demo
 
@@ -17,7 +17,6 @@ Check out the live version of the store:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=flat-square)
 
 ## 💼 Features
@@ -32,7 +31,7 @@ Check out the live version of the store:
 
 This project is a **frontend practice store** to:
 
-- Improve skills in HTML, CSS, JavaScript
+- Improve skills in HTML, CSS
 - Build interactive product layouts
 - Create a portfolio-ready store design
 - Showcase web development and UI design skills
